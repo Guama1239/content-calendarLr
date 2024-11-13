@@ -24,7 +24,7 @@ public class Application {
 		return args -> {
 			// Todo: This is a great place to bootstrap and insert some data into the database
 			Content content = new Content(null,
-					"Hello Chat GPT ",
+					"Hola Chat GPT ",
 					"All about chat GPT",
 					Status.IDEA,
 					Type.VIDEO,
